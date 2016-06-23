@@ -34,7 +34,7 @@ function glue_form_alter(&$form, &$form_state, $form_id) {
 function glue_menu() {
     return array(
         'glue' => array(
-            'title' => 'Hello world page',
+            'title' => 'Hello earth page',
             'route_name' => 'glue',
         ),
     );
